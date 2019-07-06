@@ -265,7 +265,7 @@ function renderImg () {
     img1.onload = function () {
         player.blurImg(img1,$('.section1'))
     }
-    img2.src = 'https://famewlh.github.io/Resume-wlh/images/first_page.png';
+    img2.src = 'https://famewlh.github.io/Resume-wlh/images/second_page.jpg';
     img2.crossOrigin = 'Anonymous';    
     img2.onload = function () {
         player.blurImg(img2,$('.section2'))
