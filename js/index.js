@@ -260,28 +260,28 @@ function renderImg () {
     var img3 = new Image();
     var img4 = new Image();
     var img5 = new Image();
-    img1.src = 'https://gss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=461bf3a2dc160924dc70aa1de43719c2/bd315c6034a85edf7d576ad745540923dc54756f.jpg';
+    img1.src = 'https://famewlh.github.io/Resume-wlh/images/first_page.png';
     img1.crossOrigin = 'Anonymous';    
     img1.onload = function () {
         player.blurImg(img1,$('.section1'))
     }
-    img2.src = 'http://img1.imgtn.bdimg.com/it/u=2611470260,2693190417&fm=26&gp=0.jpg';
+    img2.src = 'https://famewlh.github.io/Resume-wlh/images/first_page.png';
     img2.crossOrigin = 'Anonymous';    
     img2.onload = function () {
         player.blurImg(img2,$('.section2'))
     }
-    img3.src = 'http://img4.imgtn.bdimg.com/it/u=2232561553,2004996333&fm=26&gp=0.jpg';
+    img3.src = 'https://famewlh.github.io/Resume-wlh/images/third_page.jpg';
     img3.crossOrigin = 'Anonymous';    
     img3.onload = function () {
         player.blurImg(img3,$('.section3'))
 
     }
-    img4.src = 'http://img3.imgtn.bdimg.com/it/u=3347162651,1376963534&fm=26&gp=0.jpg';
+    img4.src = 'https://famewlh.github.io/Resume-wlh/images/fourth.jpg';
     img4.crossOrigin = 'Anonymous';    
     img4.onload = function () {
         player.blurImg(img4,$('.section4'))
     }
-    img5.src = 'http://img1.imgtn.bdimg.com/it/u=185007826,2828536683&fm=26&gp=0.jpg';
+    img5.src = 'https://famewlh.github.io/Resume-wlh/images/fifth_page.jpg';
     img5.crossOrigin = 'Anonymous';    
     img5.onload = function () {
         player.blurImg(img5,$('.section5'))
